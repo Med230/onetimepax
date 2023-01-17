@@ -7,7 +7,7 @@ public class MultiTimePad {
 
     /**
      * Main function. Loads cryptogram and displays decryption
-     *
+     *hgfhg
      * @param args No arguments are processed
      */
     public static void main(final String[] args) {
