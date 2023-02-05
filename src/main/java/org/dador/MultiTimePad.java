@@ -1,6 +1,6 @@
 package org.dador;
 
-/**
+/*bouajaj & ben ammar*
  *
  */
 public class MultiTimePad {
@@ -32,6 +32,7 @@ public class MultiTimePad {
         String displayIndex = HexConverters.toPrintableHexFromByteArray(HexConverters.toByteArrayFromHex(index));
         System.out.println("Original Cryptograms :");
         System.out.println(displayIndex);
+        System.out.println("\n");
 
         // Transforme les messages sous un format "tableau d'octets" pour pouvoir les manipuler
         for (i = 0; i < nbMsg; i++) {
