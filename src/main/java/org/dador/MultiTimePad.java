@@ -1,6 +1,6 @@
 package org.dador;
 
-/*bouajaj & ben ammar*
+/*bouajaj & benammar*
  *
  */
 public class MultiTimePad {
